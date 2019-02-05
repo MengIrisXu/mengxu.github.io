@@ -1,6 +1,7 @@
 # Welcome to Meng Xu's Page
 
 
-### Please check [Literature Report](https://github.com/MengIrisXu/mengxu.github.io/paper.md) here
+## Please check the assignment here:
+### [Feb 5th](https://github.com/MengIrisXu/mengxu.github.io/paper.md)
 
 
