@@ -8,7 +8,7 @@
 # [REASECH POWERPOINT](aca (1).pdf)
 
 ## Here is the project PPT:
-# [Project POWERPOINT](aca (1).pdf)
+# [Project POWERPOINT](Project Presentation.pptx)
 
 ## Here is our project implementation, code and read me file:
 # [REASECH Implementation ](aca (1).pdf)
