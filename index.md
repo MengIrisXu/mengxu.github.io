@@ -10,5 +10,8 @@
 ## Here is the project PPT:
 # [Project POWERPOINT](Project Presentation.pptx)
 
+## Here is the project Report:
+# [Project Report](Project Presentation.pptx)
+
 ## Here is our project implementation, code and read me file:
 # [REASECH Implementation ](aca (1).pdf)
